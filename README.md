@@ -38,7 +38,8 @@
 - In the future, I am planning a two-phase update on this device using over-the-air updates. First, I want to add more information to the screen(time/temperature/humidity). Next, I will add a UI function in which the user can set the schedule and change the storage condition threshold directly on the user interface. 
 
 
-## 3. Hardware & Software Requirements
+## 3. Code and Design
+
 
 ## 4. Project Photos & Screenshots
 
