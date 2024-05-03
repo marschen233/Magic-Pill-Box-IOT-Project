@@ -37,13 +37,6 @@
 
 - In the future, I am planning a two-phase update on this device using over-the-air updates. First, I want to add more information to the screen(time/temperature/humidity). Next, I will add a UI function in which the user can set the schedule and change the storage condition threshold directly on the user interface. 
 
-### Takeaways from ESE5160
-
-- It is a class that really helped me getting more into the embedded system and IOT device. I really enjoyed the circuit board development process. 
-
-- [Node-Red UI Link](http://52.186.82.19:1880/ui/)
-- [A12G Code Link](https://github.com/ese5160/a12g-firmware-drivers-t01-magic-pill-box)
-- [Altium Project Link](https://upenn-eselabs.365.altium.com/designs/2E1710E5-2220-46EC-B8F9-26C9D24CF3C1)
 
 ## 3. Hardware & Software Requirements
 
