@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\StarterProject.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=starterproject-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=starterproject-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

@@ -1,0 +1,15 @@
+------------------------------------------------------------
+Design Hierarchy Report for ESE5160_ExampleLayoutProject - Team1.PrjPcb
+-- 2024/3/4
+-- 19:35:25
+------------------------------------------------------------
+
+Main                          SCH        (Main.SchDoc)
+    Designator                SCH        (BuckConverter.SchDoc)
+    Designator                SCH        (BoostConverter.SchDoc)
+    U_Actuator                SCH        (Actuator.SchDoc)
+    U_FTDI                    SCH        (FTDI.SchDoc)
+    U_LiPo_Charger            SCH        (LiPo_Charger.SchDoc)
+    U_MCU                     SCH        (MCU.SchDoc)
+    U_Memory                  SCH        (Memory.SchDoc)
+    U_Sensor                  SCH        (Sensor.SchDoc)

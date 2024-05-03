@@ -1,0 +1,110 @@
+*************************************************************
+FileName = StarterProject.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\profile
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\dielectric1\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\dielectric1\attrlist
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\dielectric_2\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\dielectric_2\attrlist
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\dielectric_3\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\dielectric_3\attrlist
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\attrlist
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\attrlist
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\groundplane\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\groundplane\attrlist
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\powerplane\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\powerplane\attrlist
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_layer\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\rout\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\layers\rout\tools
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\matrix\matrix
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\symbols\shape1b72428d\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\symbols\shape91ce3180\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\symbols\shapeab6e8a7a\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\symbols\shape142036cd\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\symbols\shape1b72428d\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\symbols\shapeb539a5c2\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\symbols\shape66b92465\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\symbols\shaped07c7df3\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\symbols\shape2f31ac75\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\symbols\shape1b72428d\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\symbols\shape91ce3180\features
+
+Generated File : C:\Users\marsc\AppData\Local\TempReleases\Snapshot\1\Fabrication\ODB\odb\symbols\shapeab6e8a7a\features
+
