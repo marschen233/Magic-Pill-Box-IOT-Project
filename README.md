@@ -1,10 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/kzkUPShx)
-# a14g-final-submission
 
-    * Team Number: 1
-    * Team Name: Magic Pill Box
-    * Team Members: Yu-Pin Yi, Haowei Chen
-    * Github Repository URL: https://github.com/ese5160/a14g-final-submission-t01-magic-pill-box
+    * Author: Haowei Chen
+    * Co-Author: Pin-Yi Yu
     * Description of hardware: (windows, Adafruit 938 OLED Screen with I2C Interface, SAMW25 Module, Force Sensor with I2C Interface, Temprature/Humidity Sensor sensor with I2C, Electromagnetic Locking Lid with Spring Open Mechanism, buck converter, boost converter) 
 
 ## 1. Video Presentation
